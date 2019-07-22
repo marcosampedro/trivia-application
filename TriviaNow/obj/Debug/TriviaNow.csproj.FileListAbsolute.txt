@@ -25,3 +25,17 @@
 \\Mac\Home\Desktop\Visual Studio Projects\A\TriviaNow\TriviaNow\TriviaNow\obj\Debug\TriviaNow.pdb
 \\Mac\Home\Desktop\Visual Studio Projects\A\TriviaNow\TriviaNow\TriviaNow\obj\Debug\TriviaNow.PlayGame.resources
 \\Mac\Home\Desktop\Visual Studio Projects\A\TriviaNow\TriviaNow\TriviaNow\obj\Debug\TriviaNow.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub Projects\Trivia Application\TriviaNow\bin\Debug\TriviaNow.exe.config
+\\Mac\Home\Desktop\GitHub Projects\Trivia Application\TriviaNow\bin\Debug\TriviaNow.exe
+\\Mac\Home\Desktop\GitHub Projects\Trivia Application\TriviaNow\bin\Debug\TriviaNow.pdb
+\\Mac\Home\Desktop\GitHub Projects\Trivia Application\TriviaNow\obj\Debug\TriviaNow.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub Projects\Trivia Application\TriviaNow\obj\Debug\TriviaNow.PlayGame.resources
+\\Mac\Home\Desktop\GitHub Projects\Trivia Application\TriviaNow\obj\Debug\TriviaNow.Properties.Resources.resources
+\\Mac\Home\Desktop\GitHub Projects\Trivia Application\TriviaNow\obj\Debug\TriviaNow.QuestionDetails.resources
+\\Mac\Home\Desktop\GitHub Projects\Trivia Application\TriviaNow\obj\Debug\TriviaNow.QuestionEntry.resources
+\\Mac\Home\Desktop\GitHub Projects\Trivia Application\TriviaNow\obj\Debug\TriviaNow.QuestionPool.resources
+\\Mac\Home\Desktop\GitHub Projects\Trivia Application\TriviaNow\obj\Debug\TriviaNow.SearchQuestion.resources
+\\Mac\Home\Desktop\GitHub Projects\Trivia Application\TriviaNow\obj\Debug\TriviaNow.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\GitHub Projects\Trivia Application\TriviaNow\obj\Debug\TriviaNow.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\GitHub Projects\Trivia Application\TriviaNow\obj\Debug\TriviaNow.exe
+\\Mac\Home\Desktop\GitHub Projects\Trivia Application\TriviaNow\obj\Debug\TriviaNow.pdb
